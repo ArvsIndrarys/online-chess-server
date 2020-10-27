@@ -21,3 +21,9 @@ Simple hosted server to play chess with friends
 * [ ] test deployment on own server
 * [ ] set up CD
 * [ ] multiple game server / room system
+
+### UX
+
+* [ ] user access
+* [ ] user play / re-match
+* [ ] game stats
